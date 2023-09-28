@@ -33,7 +33,7 @@ limitations under the License.
 
 [![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
-> Return a read-only view of an input ndarray.
+> Return a read-only view of an input [`ndarray`][@stdlib/ndarray/ctor].
 
 <!-- Section to include introductory text. Make sure to keep an empty line after the intro `section` element and another before the `/section` close. -->
 
@@ -112,7 +112,7 @@ arr = ndarray2array( y );
 
 The function accepts the following arguments:
 
--   **x**: input ndarray.
+-   **x**: input [`ndarray`][@stdlib/ndarray/ctor].
 -   **s**: a [`MultiSlice`][@stdlib/slice/multi] instance, an array of slice arguments, or slice arguments as separate arguments.
 -   **options**: function options.
 
