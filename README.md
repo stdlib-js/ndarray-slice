@@ -354,6 +354,7 @@ var a8 = ndarray2array( y8 );
 ## See Also
 
 -   <span class="package-name">[`@stdlib/ndarray-array`][@stdlib/ndarray/array]</span><span class="delimiter">: </span><span class="description">multidimensional arrays.</span>
+-   <span class="package-name">[`@stdlib/ndarray-at`][@stdlib/ndarray/at]</span><span class="delimiter">: </span><span class="description">return an ndarray element.</span>
 -   <span class="package-name">[`@stdlib/ndarray-ctor`][@stdlib/ndarray/ctor]</span><span class="delimiter">: </span><span class="description">multidimensional array constructor.</span>
 -   <span class="package-name">[`@stdlib/ndarray-slice-assign`][@stdlib/ndarray/slice-assign]</span><span class="delimiter">: </span><span class="description">assign element values from a broadcasted input ndarray to corresponding elements in an output ndarray view.</span>
 -   <span class="package-name">[`@stdlib/ndarray-slice-dimension`][@stdlib/ndarray/slice-dimension]</span><span class="delimiter">: </span><span class="description">return a read-only view of an input ndarray when sliced along a specified dimension.</span>
@@ -443,6 +444,8 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 <!-- <related-links> -->
 
 [@stdlib/ndarray/array]: https://github.com/stdlib-js/ndarray-array
+
+[@stdlib/ndarray/at]: https://github.com/stdlib-js/ndarray-at
 
 [@stdlib/ndarray/slice-assign]: https://github.com/stdlib-js/ndarray-slice-assign
 
