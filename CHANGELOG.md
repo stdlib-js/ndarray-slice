@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-03-22)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`d2332f0`](https://github.com/stdlib-js/stdlib/commit/d2332f05feb48661bca9ab0058834ef29f396d23) - **bench:** refactor to use string interpolation in `ndarray/slice` [(#11075)](https://github.com/stdlib-js/stdlib/pull/11075) _(by Partha Das)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Partha Das
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.3">
 
 ## 0.2.3 (2026-02-08)
