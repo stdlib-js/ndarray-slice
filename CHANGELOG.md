@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-19)
+## Unreleased (2026-08-29)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`b85b700`](https://github.com/stdlib-js/stdlib/commit/b85b700a1d17ab443d70df3a52606fb0311dbf0d) - **docs:** improve doctests for ndarray instances in `ndarray/slice` [(#14771)](https://github.com/stdlib-js/stdlib/pull/14771) _(by Aryan Sharma, Athan Reines)_
 -   [`3116666`](https://github.com/stdlib-js/stdlib/commit/3116666b3e530b2e6fb161924ae4c43cdf02905b) - **docs:** correct TSDoc across `ndarray` TypeScript declarations [(#12635)](https://github.com/stdlib-js/stdlib/pull/12635) _(by Philipp Burckhardt, Athan Reines)_
 -   [`d2332f0`](https://github.com/stdlib-js/stdlib/commit/d2332f05feb48661bca9ab0058834ef29f396d23) - **bench:** refactor to use string interpolation in `ndarray/slice` [(#11075)](https://github.com/stdlib-js/stdlib/pull/11075) _(by Partha Das)_
 
@@ -25,8 +26,9 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
+-   Aryan Sharma
 -   Athan Reines
 -   Partha Das
 -   Philipp Burckhardt
